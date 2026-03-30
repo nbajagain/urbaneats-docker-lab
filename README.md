@@ -15,7 +15,7 @@ This project demonstrates a multi-container Docker application including:
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/nbajagain/docker-project
+git clone (https://github.com/nbajagain/urbaneats-docker-lab/blob/main/README.md)
 
 2. Navigate to project folder:
 cd docker-project
